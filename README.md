@@ -68,18 +68,6 @@ Funcionário: Maria Silva (CPF: 123.456.789-00)
 Situação: Você possui 1 hora(s) e 0 minuto(s) de crédito (extras).
 ```
 
-## 🚧 Possíveis melhorias futuras
 
-- Persistência dos dados em arquivo ou banco de dados (hoje o saldo é perdido ao fechar o programa)
-- Validação de formato de CPF, datas e horários
-- Suporte a múltiplos registros de ponto por funcionário (histórico)
-- Interface gráfica ou API REST
-- Testes unitários para `BancoDeHoras`
-
-## 🛠 Tecnologias
-
-- Java (uso de `Scanner` para entrada via console)
-
-## 📄 Licença
 
 Defina aqui a licença do projeto (ex: MIT).
